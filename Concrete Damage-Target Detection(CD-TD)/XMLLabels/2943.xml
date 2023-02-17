@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>2943.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\VOC2007_v2\JPEGImages\2943.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>545</width>
+		<height>497</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Exposed reinforcement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>412</ymin>
+			<xmax>539</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>
